@@ -1,3 +1,16 @@
 A directory that contains shell scripts
 - 0-current_working_directory: prints absolute path name of current working directory
 - 1-listit: displays contents list of current directory
+- 2-bring_me_home: changes working directory to user's home directory
+- 3-listfiles: displays current directory contents in long format
+- 4-listmorefiles: displays all directory contents including hidden files
+- 5-listfilesdigitonly: displays directory contents with user and group IDs
+- 6-firstdirectory: creates directory
+- 7-movethatfile: moves a file
+- 8-firstdelete: deletes a file
+- 9-firstdirdeletion: deletes a directory
+- 10-back: changes working directory to previous one
+- 11-lists: lists all file and directory in a tree
+- 12-file_type: prints the type of a file
+- 13-symbolic_link: creates symbolic(soft) link
+- 14-copy_html: copies all HTML files from current to parent directory
