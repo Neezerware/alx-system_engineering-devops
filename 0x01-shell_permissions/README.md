@@ -13,5 +13,8 @@ Scripts to perform various shell permissions
   - 11-directories_permissions: adds execute permission to all subdirectories of the current directory; the owner, the group owner and all other users
   - 12-directory_permissions: creates a directory called my_dir with permissions 751 in the working directory
   - 13-change_group: changes the group owner to school on the file hello
-
+  - 100-change_owner_and_group: change owner and group for all files and directories
+  - 101-symbolic_link_permissions: change owner and group owner for a file
+  - 102-if_only: change owner for a file if owned by a specific user
+  - 103-Star_Wars: play StarWars IV episode in terminal
  
