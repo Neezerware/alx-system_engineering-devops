@@ -1,4 +1,4 @@
-Scripts to perform various I/O redirection operations
+Scripts to perform various I/O redirection operations and filters
  - 0-hello_world: prints "Hello,World" to standard output
  - 1-confused_smiley: displays a confused smiley "(Ôo)"
  - 2-hellofile: display the content of the /etc/passwd file
